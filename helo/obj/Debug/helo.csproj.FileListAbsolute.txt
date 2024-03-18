@@ -1,0 +1,7 @@
+C:\Users\3041TAN-19\Desktop\szamtech-main\helo\bin\Debug\helo.exe.config
+C:\Users\3041TAN-19\Desktop\szamtech-main\helo\bin\Debug\helo.exe
+C:\Users\3041TAN-19\Desktop\szamtech-main\helo\bin\Debug\helo.pdb
+C:\Users\3041TAN-19\Desktop\szamtech-main\helo\obj\Debug\helo.csproj.AssemblyReference.cache
+C:\Users\3041TAN-19\Desktop\szamtech-main\helo\obj\Debug\helo.csproj.CoreCompileInputs.cache
+C:\Users\3041TAN-19\Desktop\szamtech-main\helo\obj\Debug\helo.exe
+C:\Users\3041TAN-19\Desktop\szamtech-main\helo\obj\Debug\helo.pdb

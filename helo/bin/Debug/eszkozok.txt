@@ -1,0 +1,5 @@
+Intel Core i9-14900K;249390;46;3200Mhz,24 mag;Intel 1700,125W,Intel UHD Graphics 770
+Intel Core i7-14700KF;168890;54;3400MHz,20 mag;Intel 1700,125W,nincs videokartya
+Intel Core i3-10100F;25690;20;3600Mhz, 4 mag;Intel 1200,65W,nincs videokartya
+Tesla 24MC625BF;39690;63;24",1920x1080,75Hz;IPS,LCD,16:9
+Dahua Monitor LM22-A200;29690;38;22",1920x1080,60Hz;VA,16:9
